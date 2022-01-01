@@ -39,10 +39,17 @@ Launching in late spring (May) to early summer (Jul) gives Louise the best chanc
 Launching in December/Jan gives Louise the worst chance for success.
 
 - What can you conclude about the Outcomes based on Goals?
-If you set your goals low, you're not guarenteed success.  Goals set at 10000 to 30000 gives close to a 50% chance for success.  If you do need to set your goals high, somewhere around 40000 to 49999 is t he sweet spot.
+
+> If you set your goals low, you are not guarenteed success.  Goals set at 15000 to 19999 gives close to a 50% chance for success.  If you do need to set your goals high, somewhere around 25000 to 29999 is the sweet spot.
 
 - What are some limitations of this dataset?
-We're pulling historical data that is based on past treads of theater production and ticket sales, it may not be predictive of futurue ticket purchasing behavior.
+
+>We're pulling historical data that is based on past treads of theater production and ticket sales, it may not be predictive of future ticket purchasing behavior.
 
 - What are some other possible tables and/or graphs that we could create?
-It certainly would be good to break down treads per region and see if there is any potential for a traveling production. It might also be good to gather data on actual production costs to see if Louise's planned production costs are on par with the norm.  If the costs are much higher maybe there's a production style that is being missed.  
+
+> It certainly would be good to break down treads per region and see if there is any potential for a traveling production. 
+
+>It might also be good to gather data on actual production costs to see if Louise's planned production costs are on par with the norm.  If the costs are much higher maybe there's a production style that is being missed.  
+
+>Lastly, plays are a narrow subcategory, it might good to analyze data about theater productions in general.
