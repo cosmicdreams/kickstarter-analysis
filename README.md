@@ -40,7 +40,7 @@ Launching in December/Jan gives Louise the worst chance for success.
 
 - What can you conclude about the Outcomes based on Goals?
 
-> If you set your goals low, you are not guarenteed success.  Goals set at 15000 to 19999 gives close to a 50% chance for success.  If you do need to set your goals high, somewhere around 25000 to 29999 is the sweet spot.
+> If you set your goals low, you are not guarenteed success.  Goals set at 15000 to 19999 gives close to a 50% chance for success.  If you do need to set your goals high, somewhere around 45000 to 49999 is the sweet spot. If you want to take your chances with a lower financial target, 25000 to 29999 is also good.
 
 - What are some limitations of this dataset?
 
